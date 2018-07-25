@@ -8,6 +8,7 @@ MJExtension
 
 下面是效果图👇
 ![image](https://github.com/zhouxinv/SelectCityDemo.git)
+![image](https://github.com/jxd001/POPdemo/blob/master/TestPop/Untitled3.gif?raw=true)<br />
 
 代理方法的使用
 1.设置HeaderView
