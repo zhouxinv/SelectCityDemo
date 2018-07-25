@@ -7,7 +7,7 @@ MJExtension
 这两个第三方可以根据项目要求自己进行添加
 
 下面是效果图👇
-![QQ20180725-195402-HD.gif](https://upload-images.jianshu.io/upload_images/1756672-39a134095d227119.gif?imageMogr2/auto-orient/strip)
+![image](https://github.com/zhouxinv/SelectCityDemo.git)
 
 代理方法的使用
 1.设置HeaderView
