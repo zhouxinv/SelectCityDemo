@@ -6,7 +6,7 @@ FMDB
 MJExtension
 这两个第三方可以根据项目要求自己进行添加
 
-下面是效果图👇
+下面是效果图👇<br/>
 ![image](https://github.com/zhouxinv/SelectCityDemo/blob/master/selectCityDemo.gif)<br />
 
 代理方法的使用
