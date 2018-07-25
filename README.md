@@ -7,8 +7,7 @@ MJExtension
 这两个第三方可以根据项目要求自己进行添加
 
 下面是效果图👇
-![image](https://github.com/zhouxinv/SelectCityDemo.git)
-![image](https://github.com/jxd001/POPdemo/blob/master/TestPop/Untitled3.gif?raw=true)<br />
+![image](https://github.com/zhouxinv/SelectCityDemo/blob/master/selectCityDemo.gif)<br />
 
 代理方法的使用
 1.设置HeaderView
